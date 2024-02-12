@@ -33,6 +33,7 @@ nav ul li a {
 .sidebar {
     float: left;
     width: 25%;
+    length: 50%;
     background-color: rgb(128,128,128);
     padding: 20px;
 }
